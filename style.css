@@ -1,0 +1,55 @@
+body{
+    background-color: #FFFFFF;
+    margin: auto;
+}
+header {
+    text-align: right;
+    font-family: arial;
+    margin: 20px 30px;
+}
+
+.google img{
+    width: 305px;
+    height: 125px;
+    margin: auto;
+    padding-left: 42%;
+    padding-top: 210px;
+    padding-bottom: 10px;
+}
+
+.search {
+    text-align: center;
+    margin: auto;
+    padding-bottom: 1ch;
+}
+
+.submit {
+    text-align: center;
+    margin: auto;
+}
+
+.language{
+    text-align: center;
+    font-family: arial;
+    margin-bottom: 328px;
+    
+}
+
+.bangladesh {
+    padding: 5px 30px;
+    border-top: 1px solid #F2F2F2;
+    border-bottom: 1px solid #e2e2e2;
+    font-size: 15px;
+    color: #70757a;
+    font-family: arial;
+    background-color: #F2F2F2;
+}
+
+.about{
+    padding: 5px 30px;
+    border-bottom: 1px solid
+    font-size: 15px;
+    color: #70757a;
+    font-family: arial;
+    background-color: #F2F2F2;
+}
